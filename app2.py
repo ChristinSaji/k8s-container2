@@ -32,5 +32,4 @@ def sum_product():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=6001)
-
-# Cloud Build Test
+    
