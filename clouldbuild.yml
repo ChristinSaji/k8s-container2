@@ -22,4 +22,4 @@ steps:
       - --location=us-central1-a
       - --cluster=k8s-cluster
 options:
-  logging: CLOUD_LOGGING_ONLY
+  logging: NONE
